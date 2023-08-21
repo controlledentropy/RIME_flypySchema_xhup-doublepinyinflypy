@@ -4,7 +4,7 @@
 
 ## 2023-08-22更新Win／Android方案（鹤形+小鹤双拼/连打+全拼，集成中英简译，表情联想等lua功能，并扩充常用词库）
 
-    基于DreamAfar/Rime-IME-for-iOS-iRime方案并整合自有使用方案。感谢@DreamAf (https://github.com/DreamAfar)提供的强大方案。
+    基于DreamAfar/Rime-IME-for-iOS-iRime方案并整合自有使用方案。感谢@DreamAfar发布的ios整合方案。
     ios/macos/android/windows均可正常使用基本输入功能，基于Lua的部分功能需要平台支持。Win7平台测试功能基本正常（双拼方案无法转换繁体，小狼毫）；Android平台测试功能大体正常（基于lua的表情、生僻字、中英简译及繁体暂不可用，Trime3.2.13）
 
 
